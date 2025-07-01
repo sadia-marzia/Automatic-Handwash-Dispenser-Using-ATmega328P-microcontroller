@@ -11,7 +11,7 @@ The developed Automatic Handwash Dispenser uses an ATmega328P microcontroller, a
 - FT232 USB to Serial Board
 
 ## Flowchart
-![Flowchart](docs/flowchart.png)
+![Flowchart](flow.png)
 
 ## How It Works
 1. The ultrasonic sensor detects a hand within a specified distance.
