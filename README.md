@@ -19,7 +19,4 @@ The developed Automatic Handwash Dispenser uses an ATmega328P microcontroller, a
 3. The servo motor dispenses a predetermined amount of soap.
 4. The pump operates for a set duration before turning off.
 
-## Setup Instructions
-1. Connect the components as per the circuit diagram (see `schematics/` folder).
-2. Upload the code from `code/main.ino` to the ATmega328P using the AVR Programming Adapter and FT232 USB to Serial Board.
-3. Test the system by placing a hand near the ultrasonic sensor.
+
